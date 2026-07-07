@@ -1,0 +1,9 @@
+streamlit
+pyngrok
+google-genai
+google-search-results
+requests
+beautifulsoup4
+pandas
+plotly
+pillow
